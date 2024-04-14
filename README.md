@@ -1,3 +1,6 @@
+Suggestion Service Backend - https://github.com/jnzm02/bts-digital 
+Data Collection Service Backend - https://github.com/rassulmagauin/bts-parser 
+
 <img width="250" alt="Снимок экрана 2024-04-14 в 08 31 46" src="https://github.com/medeupazylov/bts_digital/assets/113336831/350d1d73-4c5f-44f5-b92a-8029466487c7">
 <img width="250" alt="Снимок экрана 2024-04-14 в 08 32 57" src="https://github.com/medeupazylov/bts_digital/assets/113336831/c393236d-668c-46d1-8241-69c18a484006">
 <img width="250" alt="Снимок экрана 2024-04-14 в 08 31 35" src="https://github.com/medeupazylov/bts_digital/assets/113336831/6b6e70f2-3f14-4b4a-b3aa-c7e1b3cd64a5">
